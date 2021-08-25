@@ -1,0 +1,33 @@
+<log>
+   <log-entry serial="5927812">
+      <date>20210820</date>
+      <time utc="1629455724583">103524</time>
+      <date-time>2021-08-20T11:35:24</date-time>
+      <type>evtlog</type>
+      <class/>
+      <object/>
+      <level num="6">info</level>
+      <transaction-type/>
+      <transaction>0</transaction>
+      <client/>
+      <code>0x00000000</code>
+      <file/>
+      <message>Log has been archived successfully</message>
+   </log-entry>
+   <log-entry serial="59278133" domain="ABC">
+      <date>20240820</date>
+      <time utc="1629455724592">103424</time>
+      <date-time>2024-08-20T11:35:24</date-time>
+      <type>latency</type>
+      <class>mpw</class>
+      <object>webap</object>
+      <level num="6">info</level>
+      <transaction-type/>
+      <transaction>28119571</transaction>
+      <client>12.18.15.4</client>
+      <code>03</code>
+      <file/>
+      <message>Latency:   0 926   0 926 926 924   0 926 928 926 928 928 928 926 926 926 [https://google.com/accounts]</m
+essage>
+   </log-entry>
+</log>
